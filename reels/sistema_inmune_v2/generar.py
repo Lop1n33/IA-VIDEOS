@@ -43,6 +43,8 @@ ease_out_back, ease_in_out = v1.ease_out_back, v1.ease_in_out
 Sprite = v1.Sprite
 
 MARCA = "BIOLOGÍA EN MINUTOS"
+NOMBRE = "reel_sistema_inmune_v2"  # prefijo de los archivos de salida
+TEMAS = ["Sistema nervioso", "El ADN", "Las neuronas", "La fotosíntesis"]  # tecleados en el cierre
 
 # ----------------------------------------------------------------------------
 # GUION
@@ -905,7 +907,7 @@ def esc_outro(fr, d, R, fx, t, dur, esc):
             d.ellipse([bx0 + 40, by0 + 110, bx0 + 130, by0 + 200], fill=esc["color"])
             d.text((bx0 + 85, by0 + 155), "?", font=fuente(FONT_BOLD, 50), fill=(255, 255, 255), anchor="mm")
             d.rounded_rectangle([bx0 + 160, by0 + 115, bx1 - 40, by0 + 195], radius=40, fill=(225, 228, 238))
-            temas = ["Sistema nervioso", "El ADN", "Las neuronas", "La fotosíntesis"]
+            temas = TEMAS
             t_esc = max(0.0, t - 0.7)
             ciclo = 2.0
             idx = int(t_esc / ciclo) % len(temas)
@@ -1126,7 +1128,7 @@ def main():
     n_srt = 1
     guion.append(f"GUION PARA ELEVENLABS — {MARCA}\n")
     guion.append("Genera un audio por escena y colócalo en el tiempo indicado,\n"
-                 "o pásame los audios (escena_01.mp3 ... escena_10.mp3) y re-sincronizo el video.\n")
+                 f"o pásame los audios (escena_01.mp3 ... escena_{len(ESCENAS):02d}.mp3) y re-sincronizo el video.\n")
     for i, (e, h) in enumerate(zip(ESCENAS, habla)):
         ini = inicios[i] + LEAD
         pal = palabras_con_tiempo(e["texto"], LEAD, LEAD + h)
@@ -1207,11 +1209,11 @@ def main():
             voz[i0:i0 + len(a)] += a[:max(0, n - i0)]
     mus = np.pad(musica(total), (0, n - int(total * SR)))
     pistas = {
-        "reel_sistema_inmune_v2.mp4": efectos * 0.55 + mus * 0.12 + voz,
-        "reel_sistema_inmune_v2_sin_musica.mp4": efectos * 0.55 + voz,
+        f"{NOMBRE}.mp4": efectos * 0.55 + mus * 0.12 + voz,
+        f"{NOMBRE}_sin_musica.mp4": efectos * 0.55 + voz,
     }
     if audios:  # con voz: los efectos y música más bajos para no tapar
-        pistas = {"reel_sistema_inmune_v2_con_voz.mp4": efectos * 0.35 + mus * 0.07 + voz * 0.95}
+        pistas = {f"{NOMBRE}_con_voz.mp4": efectos * 0.35 + mus * 0.07 + voz * 0.95}
     for nombre, a in pistas.items():
         a = a[:int(total * SR)]
         pico = np.max(np.abs(a)) + 1e-6
