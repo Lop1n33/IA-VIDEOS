@@ -1,0 +1,319 @@
+1
+00:00:00,250 --> 00:00:02,111
+¡Hola! Soy Biología en Minutos,
+
+2
+00:00:02,111 --> 00:00:03,696
+y hoy vas a aprender a leer un
+
+3
+00:00:03,696 --> 00:00:05,355
+electrocardiograma paso a paso.
+
+4
+00:00:06,605 --> 00:00:08,510
+Primero, el papel.
+
+5
+00:00:08,510 --> 00:00:10,939
+A 25 mm/s, cada cuadro pequeño
+
+6
+00:00:10,939 --> 00:00:13,148
+mide 1 mm: equivale a 0.04
+
+7
+00:00:13,148 --> 00:00:15,356
+segundos en horizontal y a 0.1
+
+8
+00:00:15,356 --> 00:00:16,875
+mV en vertical.
+
+9
+00:00:16,875 --> 00:00:19,001
+Un cuadro grande, de cinco
+
+10
+00:00:19,001 --> 00:00:20,988
+pequeños, equivale a 0.20
+
+11
+00:00:20,988 --> 00:00:22,010
+segundos.
+
+12
+00:00:23,260 --> 00:00:24,548
+Cada latido tiene tres
+
+13
+00:00:24,548 --> 00:00:25,369
+componentes:
+
+14
+00:00:25,369 --> 00:00:26,879
+la onda P, que es la
+
+15
+00:00:26,879 --> 00:00:28,411
+despolarización auricular; el
+
+16
+00:00:28,411 --> 00:00:30,320
+complejo QRS, la despolarización
+
+17
+00:00:30,320 --> 00:00:32,185
+ventricular; y la onda T, la
+
+18
+00:00:32,185 --> 00:00:33,873
+repolarización ventricular.
+
+19
+00:00:35,123 --> 00:00:37,418
+El ECG tiene 12 derivaciones.
+
+20
+00:00:37,418 --> 00:00:39,454
+Seis son del plano frontal:
+
+21
+00:00:39,454 --> 00:00:42,058
+las bipolares DI, DII y DIII, y
+
+22
+00:00:42,058 --> 00:00:44,224
+las monopolares aumentadas aVR,
+
+23
+00:00:44,224 --> 00:00:45,384
+aVL y aVF.
+
+24
+00:00:46,634 --> 00:00:47,974
+Las otras seis son las
+
+25
+00:00:47,974 --> 00:00:49,950
+precordiales, de V1 a V6, y
+
+26
+00:00:49,950 --> 00:00:51,882
+registran el plano horizontal.
+
+27
+00:00:51,882 --> 00:00:53,859
+V1 y V2 van en el cuarto espacio
+
+28
+00:00:53,859 --> 00:00:55,637
+intercostal, a los lados del
+
+29
+00:00:55,637 --> 00:00:57,328
+esternón; V4, en el quinto
+
+30
+00:00:57,328 --> 00:00:59,107
+espacio, línea medioclavicular;
+
+31
+00:00:59,107 --> 00:01:01,346
+y V6, en la línea medioaxilar.
+
+32
+00:01:02,596 --> 00:01:04,494
+Cada grupo mira una cara del
+
+33
+00:01:04,494 --> 00:01:06,990
+corazón: DII, DIII y aVF, la
+
+34
+00:01:06,990 --> 00:01:09,762
+cara inferior; DI, aVL, V5 y V6,
+
+35
+00:01:09,762 --> 00:01:12,208
+la lateral; V1 y V2, el septo; y
+
+36
+00:01:12,208 --> 00:01:14,555
+V3 y V4, la cara anterior.
+
+37
+00:01:15,805 --> 00:01:17,433
+Paso 1: el ritmo.
+
+38
+00:01:17,433 --> 00:01:19,061
+Es sinusal si cada QRS va
+
+39
+00:01:19,061 --> 00:01:20,759
+precedido de una onda P,
+
+40
+00:01:20,759 --> 00:01:22,573
+positiva en DII y negativa en
+
+41
+00:01:22,573 --> 00:01:24,783
+aVR, y si los intervalos R-R son
+
+42
+00:01:24,783 --> 00:01:25,690
+regulares.
+
+43
+00:01:26,940 --> 00:01:28,862
+Paso 2: la frecuencia.
+
+44
+00:01:28,862 --> 00:01:30,736
+Divide 300 entre el número de
+
+45
+00:01:30,736 --> 00:01:32,538
+cuadros grandes que hay entre
+
+46
+00:01:32,538 --> 00:01:33,715
+dos ondas R.
+
+47
+00:01:33,715 --> 00:01:36,070
+Si hay 4, la frecuencia es de 75
+
+48
+00:01:36,070 --> 00:01:38,809
+lpm. Lo normal es de 60 a 100.
+
+49
+00:01:40,059 --> 00:01:41,966
+Paso 3: el eje eléctrico.
+
+50
+00:01:41,966 --> 00:01:43,658
+Mira el QRS en DI y aVF:
+
+51
+00:01:43,658 --> 00:01:45,544
+si ambos son positivos, el eje
+
+52
+00:01:45,544 --> 00:01:47,686
+es normal. Si DI es negativo,
+
+53
+00:01:47,686 --> 00:01:49,443
+hay desviación a la derecha; si
+
+54
+00:01:49,443 --> 00:01:51,329
+aVF es negativo y DII también,
+
+55
+00:01:51,329 --> 00:01:53,043
+desviación a la izquierda.
+
+56
+00:01:54,293 --> 00:01:56,636
+Paso 4: los intervalos.
+
+57
+00:01:56,636 --> 00:01:59,209
+El PR normal mide de 0.12 a 0.20
+
+58
+00:01:59,209 --> 00:02:01,496
+segundos, de 3 a 5 cuadros
+
+59
+00:02:01,496 --> 00:02:04,468
+pequeños. El QRS, menos de 0.12
+
+60
+00:02:04,468 --> 00:02:07,184
+segundos. Y el QT corregido,
+
+61
+00:02:07,184 --> 00:02:09,699
+menos de 440 ms en hombres y de
+
+62
+00:02:09,699 --> 00:02:11,271
+460 en mujeres.
+
+63
+00:02:12,521 --> 00:02:14,643
+Paso 5: el segmento ST y la onda
+
+64
+00:02:14,643 --> 00:02:16,440
+T. Compáralos con la línea
+
+65
+00:02:16,440 --> 00:02:17,415
+isoeléctrica.
+
+66
+00:02:17,415 --> 00:02:19,017
+Una elevación del ST en dos
+
+67
+00:02:19,017 --> 00:02:20,554
+derivaciones contiguas sugiere
+
+68
+00:02:20,554 --> 00:02:22,265
+un infarto agudo; una depresión
+
+69
+00:02:22,265 --> 00:02:24,322
+o una T invertida, isquemia.
+
+70
+00:02:25,572 --> 00:02:27,013
+Recuerda los cinco pasos:
+
+71
+00:02:27,013 --> 00:02:28,635
+ritmo, frecuencia, eje,
+
+72
+00:02:28,635 --> 00:02:30,196
+intervalos y segmento ST.
+
+73
+00:02:30,196 --> 00:02:32,057
+Siempre en el mismo orden, y no
+
+74
+00:02:32,057 --> 00:02:33,418
+se te escapará nada.
+
+75
+00:02:34,668 --> 00:02:35,976
+Guarda este video para tu
+
+76
+00:02:35,976 --> 00:02:37,031
+próxima guardia.
+
+77
+00:02:37,031 --> 00:02:38,124
+¿Qué tema quieres que
+
+78
+00:02:38,124 --> 00:02:39,334
+expliquemos después?
+
+79
+00:02:39,334 --> 00:02:40,720
+Déjalo en los comentarios y
+
+80
+00:02:40,720 --> 00:02:41,950
+regálame un follow.
