@@ -1,7 +1,7 @@
-GUION PARA ELEVENLABS — CÓMO LEER UN ECG EN MENOS DE 3 MINUTOS
-Las siglas y los números están escritos como se pronuncian en español (cu erre ese, a ve efe,
-de dos, ese te, cero punto doce...) para que ElevenLabs no los lea en inglés.
-Los subtítulos del video los muestran en su forma escrita (QRS, aVF, DII, ST, 0.12).
+GUION PARA ELEVENLABS — CÓMO INTERPRETAR UNA GASOMETRÍA ARTERIAL EN MENOS DE 3 MINUTOS
+Las siglas y los números están escritos como se pronuncian en español (pe hache, pe ce o dos,
+pe o dos, fi o dos, siete punto treinta y cinco...) para que ElevenLabs no los lea en inglés.
+Los subtítulos del video los muestran en su forma escrita (pH, PaCO₂, HCO₃⁻, PaO₂/FiO₂, 7.35).
 Genera un audio por escena y colócalo en el tiempo indicado, o pásame los audios
 (escena_01.mp3 ... escena_12.mp3) y re-sincronizo el video.
 
