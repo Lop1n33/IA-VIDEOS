@@ -1,0 +1,259 @@
+1
+00:00:00,250 --> 00:00:01,630
+¡Hola! Soy Biología en
+
+2
+00:00:01,630 --> 00:00:03,394
+Minutos. Como recordarán, en
+
+3
+00:00:03,394 --> 00:00:04,870
+el video pasado hablamos sobre
+
+4
+00:00:04,870 --> 00:00:06,020
+las células del sistema
+
+5
+00:00:06,020 --> 00:00:06,882
+inmunológico.
+
+6
+00:00:06,882 --> 00:00:08,627
+Pero... ¿sabías que el sistema
+
+7
+00:00:08,627 --> 00:00:10,371
+inmunológico se divide en dos?
+
+8
+00:00:11,721 --> 00:00:13,162
+Por un lado está el sistema
+
+9
+00:00:13,162 --> 00:00:14,992
+inmune innato, y por el otro,
+
+10
+00:00:14,992 --> 00:00:16,666
+el sistema inmune adaptativo.
+
+11
+00:00:16,666 --> 00:00:18,028
+¡Y hoy vamos a hablar del
+
+12
+00:00:18,028 --> 00:00:19,372
+sistema inmune innato!
+
+13
+00:00:20,722 --> 00:00:22,024
+El sistema innato es tu
+
+14
+00:00:22,024 --> 00:00:23,513
+primera línea de defensa:
+
+15
+00:00:23,513 --> 00:00:25,002
+naces con él y responde en
+
+16
+00:00:25,002 --> 00:00:26,222
+minutos contra cualquier
+
+17
+00:00:26,222 --> 00:00:27,917
+invasor. Su primera barrera
+
+18
+00:00:27,917 --> 00:00:29,696
+son la piel y las mucosas.
+
+19
+00:00:31,045 --> 00:00:32,648
+Si un microbio logra pasar,
+
+20
+00:00:32,648 --> 00:00:34,190
+llegan los neutrófilos, los
+
+21
+00:00:34,190 --> 00:00:35,651
+primeros en la escena.
+
+22
+00:00:35,651 --> 00:00:36,950
+Devoran bacterias y hasta
+
+23
+00:00:36,950 --> 00:00:38,694
+lanzan redes para atraparlas.
+
+24
+00:00:40,044 --> 00:00:41,591
+Después, los macrófagos se
+
+25
+00:00:41,591 --> 00:00:43,284
+comen a los microbios y a las
+
+26
+00:00:43,284 --> 00:00:44,830
+células muertas, y liberan
+
+27
+00:00:44,830 --> 00:00:46,147
+citocinas: alarmas que
+
+28
+00:00:46,147 --> 00:00:47,652
+provocan inflamación y llaman
+
+29
+00:00:47,652 --> 00:00:48,467
+refuerzos.
+
+30
+00:00:49,817 --> 00:00:51,052
+Las células dendríticas
+
+31
+00:00:51,052 --> 00:00:52,655
+capturan pedacitos del enemigo
+
+32
+00:00:52,655 --> 00:00:54,086
+y se los muestran a los
+
+33
+00:00:54,086 --> 00:00:54,974
+linfocitos.
+
+34
+00:00:54,974 --> 00:00:56,339
+¡Son el puente hacia el
+
+35
+00:00:56,339 --> 00:00:57,639
+sistema adaptativo!
+
+36
+00:00:58,989 --> 00:01:00,492
+Las células NK, o asesinas
+
+37
+00:01:00,492 --> 00:01:01,858
+naturales, revisan a las
+
+38
+00:01:01,858 --> 00:01:03,419
+células de tu cuerpo, y si
+
+39
+00:01:03,419 --> 00:01:04,707
+encuentran una infectada o
+
+40
+00:01:04,707 --> 00:01:06,249
+tumoral, ¡la destruyen!
+
+41
+00:01:07,599 --> 00:01:09,128
+Los mastocitos están llenos de
+
+42
+00:01:09,128 --> 00:01:10,499
+gránulos de histamina.
+
+43
+00:01:10,499 --> 00:01:12,048
+Cuando detectan peligro, los
+
+44
+00:01:12,048 --> 00:01:12,981
+liberan y provocan
+
+45
+00:01:12,981 --> 00:01:13,914
+inflamación...
+
+46
+00:01:13,914 --> 00:01:15,424
+¡y también las alergias!
+
+47
+00:01:16,774 --> 00:01:18,055
+Los eosinófilos combaten
+
+48
+00:01:18,055 --> 00:01:19,923
+parásitos, como los gusanos,
+
+49
+00:01:19,923 --> 00:01:21,595
+que son demasiado grandes para
+
+50
+00:01:21,595 --> 00:01:22,486
+comérselos.
+
+51
+00:01:22,486 --> 00:01:23,854
+¡Así que los atacan con
+
+52
+00:01:23,854 --> 00:01:25,157
+sustancias tóxicas!
+
+53
+00:01:26,507 --> 00:01:27,243
+En resumen:
+
+54
+00:01:27,243 --> 00:01:28,753
+el sistema innato es rápido y
+
+55
+00:01:28,753 --> 00:01:30,322
+siempre actúa igual, pero no
+
+56
+00:01:30,322 --> 00:01:31,290
+tiene memoria.
+
+57
+00:01:31,290 --> 00:01:32,549
+Para eso está el sistema
+
+58
+00:01:32,549 --> 00:01:33,691
+adaptativo, ¡del que
+
+59
+00:01:33,691 --> 00:01:34,892
+hablaremos en el próximo
+
+60
+00:01:34,892 --> 00:01:35,492
+video!
+
+61
+00:01:36,842 --> 00:01:38,012
+¿Y de qué otro tema te
+
+62
+00:01:38,012 --> 00:01:39,346
+gustaría que habláramos?
+
+63
+00:01:39,346 --> 00:01:40,388
+Déjalo en la caja de
+
+64
+00:01:40,388 --> 00:01:41,558
+comentarios y regálame un
+
+65
+00:01:41,558 --> 00:01:42,162
+follow.

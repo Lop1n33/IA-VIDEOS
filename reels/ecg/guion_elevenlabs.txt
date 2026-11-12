@@ -1,0 +1,73 @@
+GUION PARA ELEVENLABS — BIOLOGÍA EN MINUTOS: CÓMO LEER UN ECG
+El texto de la voz está escrito con los números y siglas deletreados para que la pronunciación
+sea correcta (los subtítulos del video los muestran en cifras).
+Genera un audio por escena y colócalo en el tiempo indicado, o pásame los audios
+(escena_01.mp3 ... escena_13.mp3) y re-sincronizo el video.
+
+[ESCENA 01 — Cómo leer un ECG]  empieza en 0:00.25  (voz aprox. 5.1s)
+¡Hola! Soy Biología en Minutos, y hoy vas a aprender a leer un electrocardiograma paso a paso.
+
+[ESCENA 02 — El papel del ECG]  empieza en 0:06.60  (voz aprox. 15.4s)
+Primero, el papel. A veinticinco milímetros por segundo, cada cuadro pequeño mide un milímetro: equivale a cero punto cero cuatro segundos en horizontal, y a cero punto un milivoltios en vertical. Un cuadro grande, de cinco pequeños, equivale a cero punto dos segundos.
+
+[ESCENA 03 — Ondas del latido]  empieza en 0:23.26  (voz aprox. 10.6s)
+Cada latido tiene tres componentes: la onda P, que es la despolarización auricular; el complejo Q R S, la despolarización ventricular; y la onda T, la repolarización ventricular.
+
+[ESCENA 04 — Plano frontal]  empieza en 0:35.12  (voz aprox. 10.3s)
+El electrocardiograma tiene doce derivaciones. Seis son del plano frontal: las bipolares D uno, D dos y D tres, y las monopolares aumentadas a V R, a V L y a V F.
+
+[ESCENA 05 — Precordiales]  empieza en 0:46.63  (voz aprox. 14.7s)
+Las otras seis son las precordiales, de V uno a V seis, y registran el plano horizontal. V uno y V dos van en el cuarto espacio intercostal, a los lados del esternón; V cuatro, en el quinto espacio, línea medioclavicular; y V seis, en la línea medioaxilar.
+
+[ESCENA 06 — Caras del corazón]  empieza en 1:02.60  (voz aprox. 12.0s)
+Cada grupo mira una cara del corazón: D dos, D tres y a V F, la cara inferior; D uno, a V L, V cinco y V seis, la lateral; V uno y V dos, el septo; y V tres y V cuatro, la cara anterior.
+
+[ESCENA 07 — Ritmo]  empieza en 1:15.81  (voz aprox. 9.9s)
+Paso uno: el ritmo. Es sinusal si cada Q R S va precedido de una onda P, positiva en D dos y negativa en a V R, y si los intervalos R R son regulares.
+
+[ESCENA 08 — Frecuencia]  empieza en 1:26.94  (voz aprox. 11.9s)
+Paso dos: la frecuencia. Divide trescientos entre el número de cuadros grandes que hay entre dos ondas R. Si hay cuatro, la frecuencia es de setenta y cinco latidos por minuto. Lo normal es de sesenta a cien.
+
+[ESCENA 09 — Eje eléctrico]  empieza en 1:40.06  (voz aprox. 13.0s)
+Paso tres: el eje eléctrico. Mira el Q R S en D uno y a V F: si ambos son positivos, el eje es normal. Si D uno es negativo, hay desviación a la derecha; si a V F es negativo y D dos también, desviación a la izquierda.
+
+[ESCENA 10 — Intervalos]  empieza en 1:54.29  (voz aprox. 17.0s)
+Paso cuatro: los intervalos. El P R normal mide de cero punto doce a cero punto veinte segundos, de tres a cinco cuadros pequeños. El Q R S, menos de cero punto doce segundos. Y el Q T corregido, menos de cuatrocientos cuarenta milisegundos en hombres y de cuatrocientos sesenta en mujeres.
+
+[ESCENA 11 — Segmento ST y onda T]  empieza en 2:12.52  (voz aprox. 11.8s)
+Paso cinco: el segmento S T y la onda T. Compáralos con la línea isoeléctrica. Una elevación del S T en dos derivaciones contiguas sugiere un infarto agudo; una depresión o una T invertida, isquemia.
+
+[ESCENA 12 — Los 5 pasos]  empieza en 2:25.57  (voz aprox. 7.8s)
+Recuerda los cinco pasos: ritmo, frecuencia, eje, intervalos y segmento S T. Siempre en el mismo orden, y no se te escapará nada.
+
+[ESCENA 13 — ¿Te sirvió?]  empieza en 2:34.67  (voz aprox. 7.3s)
+Guarda este video para tu próxima guardia. ¿Qué tema quieres que expliquemos después? Déjalo en los comentarios y regálame un follow.
+
+
+TEXTO COMPLETO (para pegar de una sola vez):
+
+¡Hola! Soy Biología en Minutos, y hoy vas a aprender a leer un electrocardiograma paso a paso.
+
+Primero, el papel. A veinticinco milímetros por segundo, cada cuadro pequeño mide un milímetro: equivale a cero punto cero cuatro segundos en horizontal, y a cero punto un milivoltios en vertical. Un cuadro grande, de cinco pequeños, equivale a cero punto dos segundos.
+
+Cada latido tiene tres componentes: la onda P, que es la despolarización auricular; el complejo Q R S, la despolarización ventricular; y la onda T, la repolarización ventricular.
+
+El electrocardiograma tiene doce derivaciones. Seis son del plano frontal: las bipolares D uno, D dos y D tres, y las monopolares aumentadas a V R, a V L y a V F.
+
+Las otras seis son las precordiales, de V uno a V seis, y registran el plano horizontal. V uno y V dos van en el cuarto espacio intercostal, a los lados del esternón; V cuatro, en el quinto espacio, línea medioclavicular; y V seis, en la línea medioaxilar.
+
+Cada grupo mira una cara del corazón: D dos, D tres y a V F, la cara inferior; D uno, a V L, V cinco y V seis, la lateral; V uno y V dos, el septo; y V tres y V cuatro, la cara anterior.
+
+Paso uno: el ritmo. Es sinusal si cada Q R S va precedido de una onda P, positiva en D dos y negativa en a V R, y si los intervalos R R son regulares.
+
+Paso dos: la frecuencia. Divide trescientos entre el número de cuadros grandes que hay entre dos ondas R. Si hay cuatro, la frecuencia es de setenta y cinco latidos por minuto. Lo normal es de sesenta a cien.
+
+Paso tres: el eje eléctrico. Mira el Q R S en D uno y a V F: si ambos son positivos, el eje es normal. Si D uno es negativo, hay desviación a la derecha; si a V F es negativo y D dos también, desviación a la izquierda.
+
+Paso cuatro: los intervalos. El P R normal mide de cero punto doce a cero punto veinte segundos, de tres a cinco cuadros pequeños. El Q R S, menos de cero punto doce segundos. Y el Q T corregido, menos de cuatrocientos cuarenta milisegundos en hombres y de cuatrocientos sesenta en mujeres.
+
+Paso cinco: el segmento S T y la onda T. Compáralos con la línea isoeléctrica. Una elevación del S T en dos derivaciones contiguas sugiere un infarto agudo; una depresión o una T invertida, isquemia.
+
+Recuerda los cinco pasos: ritmo, frecuencia, eje, intervalos y segmento S T. Siempre en el mismo orden, y no se te escapará nada.
+
+Guarda este video para tu próxima guardia. ¿Qué tema quieres que expliquemos después? Déjalo en los comentarios y regálame un follow.

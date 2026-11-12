@@ -1,0 +1,215 @@
+1
+00:00:00,250 --> 00:00:01,576
+¡Hola! Soy Biología en
+
+2
+00:00:01,576 --> 00:00:03,251
+Minutos, y hoy te voy a hablar
+
+3
+00:00:03,251 --> 00:00:04,632
+sobre las células del sistema
+
+4
+00:00:04,632 --> 00:00:05,460
+inmunológico.
+
+5
+00:00:06,460 --> 00:00:08,049
+Primero, los neutrófilos.
+
+6
+00:00:08,049 --> 00:00:09,504
+Son los primeros en llegar a
+
+7
+00:00:09,504 --> 00:00:10,347
+una infección:
+
+8
+00:00:10,347 --> 00:00:11,783
+devoran bacterias sin parar y
+
+9
+00:00:11,783 --> 00:00:13,123
+mueren en la batalla.
+
+10
+00:00:13,123 --> 00:00:14,846
+¡El pus está hecho de ellos!
+
+11
+00:00:15,846 --> 00:00:17,485
+Luego llegan los macrófagos,
+
+12
+00:00:17,485 --> 00:00:18,935
+los grandes comelones.
+
+13
+00:00:18,935 --> 00:00:20,637
+Se tragan bacterias, virus y
+
+14
+00:00:20,637 --> 00:00:22,338
+restos de células muertas, y
+
+15
+00:00:22,338 --> 00:00:23,725
+lanzan alarmas para llamar
+
+16
+00:00:23,725 --> 00:00:24,545
+refuerzos.
+
+17
+00:00:25,545 --> 00:00:27,065
+Las células dendríticas son
+
+18
+00:00:27,065 --> 00:00:28,093
+las mensajeras:
+
+19
+00:00:28,093 --> 00:00:29,747
+capturan pedacitos del enemigo
+
+20
+00:00:29,747 --> 00:00:31,267
+y se los presentan a los
+
+21
+00:00:31,267 --> 00:00:32,340
+linfocitos T.
+
+22
+00:00:33,340 --> 00:00:34,262
+Los linfocitos T
+
+23
+00:00:34,262 --> 00:00:36,213
+colaboradores, o CD4, son los
+
+24
+00:00:36,213 --> 00:00:37,949
+generales: dan las órdenes y
+
+25
+00:00:37,949 --> 00:00:39,471
+activan a las demás células
+
+26
+00:00:39,471 --> 00:00:40,500
+del ejército.
+
+27
+00:00:41,500 --> 00:00:42,836
+Los linfocitos B fabrican
+
+28
+00:00:42,836 --> 00:00:44,319
+anticuerpos que se pegan al
+
+29
+00:00:44,319 --> 00:00:45,738
+enemigo y lo marcan.
+
+30
+00:00:45,738 --> 00:00:46,845
+A esto se le llama
+
+31
+00:00:46,845 --> 00:00:48,265
+opsonización, y así los
+
+32
+00:00:48,265 --> 00:00:49,663
+fagocitos se lo comen más
+
+33
+00:00:49,663 --> 00:00:50,311
+fácil.
+
+34
+00:00:51,311 --> 00:00:53,183
+Los linfocitos T citotóxicos,
+
+35
+00:00:53,183 --> 00:00:54,797
+o CD8, son asesinos de
+
+36
+00:00:54,797 --> 00:00:56,506
+precisión: detectan células
+
+37
+00:00:56,506 --> 00:00:58,120
+infectadas por virus y las
+
+38
+00:00:58,120 --> 00:00:59,033
+destruyen.
+
+39
+00:01:00,033 --> 00:01:01,718
+Las células NK, o asesinas
+
+40
+00:01:01,718 --> 00:01:03,512
+naturales, patrullan tu cuerpo
+
+41
+00:01:03,512 --> 00:01:05,196
+y eliminan células tumorales o
+
+42
+00:01:05,196 --> 00:01:06,924
+sospechosas, sin entrenamiento
+
+43
+00:01:06,924 --> 00:01:07,646
+previo.
+
+44
+00:01:08,646 --> 00:01:10,295
+Y finalmente, las células de
+
+45
+00:01:10,295 --> 00:01:11,760
+memoria: recuerdan a cada
+
+46
+00:01:11,760 --> 00:01:13,063
+enemigo para atacarlo más
+
+47
+00:01:13,063 --> 00:01:14,529
+rápido la próxima vez.
+
+48
+00:01:14,529 --> 00:01:15,709
+¡Por eso funcionan las
+
+49
+00:01:15,709 --> 00:01:16,422
+vacunas!
+
+50
+00:01:17,422 --> 00:01:18,883
+¿De qué te gustaría que fuera
+
+51
+00:01:18,883 --> 00:01:20,251
+nuestro siguiente video?
+
+52
+00:01:20,251 --> 00:01:21,319
+Déjalo en la caja de
+
+53
+00:01:21,319 --> 00:01:22,519
+comentarios y regálame un
+
+54
+00:01:22,519 --> 00:01:23,137
+follow.

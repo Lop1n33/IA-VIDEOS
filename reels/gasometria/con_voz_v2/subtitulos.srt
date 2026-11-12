@@ -1,0 +1,287 @@
+1
+00:00:00,250 --> 00:00:01,797
+Seguramente has visto esto:
+
+2
+00:00:01,797 --> 00:00:03,282
+una gasometría arterial.
+
+3
+00:00:03,282 --> 00:00:04,707
+Y si solo ves números sin
+
+4
+00:00:04,707 --> 00:00:06,193
+sentido, hoy te enseño a
+
+5
+00:00:06,193 --> 00:00:07,638
+interpretarla en menos de 3
+
+6
+00:00:07,638 --> 00:00:08,350
+minutos.
+
+7
+00:00:09,450 --> 00:00:13,464
+Primero, los valores normales:
+
+8
+00:00:13,464 --> 00:00:17,611
+pH de 7.35 a 7.45; PaCO₂ de 35 a
+
+9
+00:00:17,611 --> 00:00:21,401
+45 mmHg; bicarbonato de 22 a 26
+
+10
+00:00:21,401 --> 00:00:25,950
+mEq/L; y PaO₂ de 80 a 100 mmHg.
+
+11
+00:00:27,050 --> 00:00:28,549
+Piensa en una balanza:
+
+12
+00:00:28,549 --> 00:00:30,342
+el CO₂ actúa como ácido y lo
+
+13
+00:00:30,342 --> 00:00:32,181
+regula el pulmón; el bicarbonato
+
+14
+00:00:32,181 --> 00:00:33,884
+es una base y lo regula el
+
+15
+00:00:33,884 --> 00:00:35,678
+riñón. El pH depende del
+
+16
+00:00:35,678 --> 00:00:37,290
+equilibrio entre ambos.
+
+17
+00:00:38,390 --> 00:00:40,655
+Paso 1: mira el pH.
+
+18
+00:00:40,655 --> 00:00:42,891
+Si es menor de 7.35, hay
+
+19
+00:00:42,891 --> 00:00:45,479
+acidemia; si es mayor de 7.45,
+
+20
+00:00:45,479 --> 00:00:46,950
+hay alcalemia.
+
+21
+00:00:48,050 --> 00:00:50,013
+Paso 2: busca el origen.
+
+22
+00:00:50,013 --> 00:00:51,773
+Si el pH y la PaCO₂ van en
+
+23
+00:00:51,773 --> 00:00:53,059
+sentido opuesto, es
+
+24
+00:00:53,059 --> 00:00:54,075
+respiratorio.
+
+25
+00:00:54,075 --> 00:00:56,106
+Si el pH y el bicarbonato van en
+
+26
+00:00:56,106 --> 00:00:58,430
+el mismo sentido, es metabólico.
+
+27
+00:00:59,530 --> 00:01:02,746
+Paso 3: revisa la compensación.
+
+28
+00:01:02,746 --> 00:01:05,453
+En la acidosis metabólica, usa
+
+29
+00:01:05,453 --> 00:01:07,491
+la fórmula de Winter:
+
+30
+00:01:07,491 --> 00:01:10,357
+PaCO₂ esperada = 1.5 × HCO₃⁻ + 8
+
+31
+00:01:10,357 --> 00:01:13,255
+± 2. Si la PaCO₂ real queda
+
+32
+00:01:13,255 --> 00:01:15,803
+fuera de ese rango, hay un
+
+33
+00:01:15,803 --> 00:01:17,650
+segundo trastorno.
+
+34
+00:01:18,750 --> 00:01:20,601
+Paso 4: en toda acidosis
+
+35
+00:01:20,601 --> 00:01:22,580
+metabólica, calcula el anión
+
+36
+00:01:22,580 --> 00:01:24,660
+gap: sodio menos la suma de
+
+37
+00:01:24,660 --> 00:01:26,308
+cloro y bicarbonato.
+
+38
+00:01:26,308 --> 00:01:28,413
+Lo normal es de 8 a 12.
+
+39
+00:01:28,413 --> 00:01:30,366
+Si está elevado, piensa en
+
+40
+00:01:30,366 --> 00:01:32,623
+cetoacidosis, acidosis láctica,
+
+41
+00:01:32,623 --> 00:01:34,500
+insuficiencia renal o tóxicos;
+
+42
+00:01:34,500 --> 00:01:36,529
+si es normal, en diarrea o
+
+43
+00:01:36,529 --> 00:01:38,330
+acidosis tubular renal.
+
+44
+00:01:39,430 --> 00:01:41,476
+Paso 5: la oxigenación.
+
+45
+00:01:41,476 --> 00:01:43,571
+La PaO₂ normal es de 80 a 100
+
+46
+00:01:43,571 --> 00:01:45,418
+mmHg. Calcula el índice
+
+47
+00:01:45,418 --> 00:01:47,813
+PaO₂/FiO₂: si es menor de 300,
+
+48
+00:01:47,813 --> 00:01:49,609
+hay una alteración importante
+
+49
+00:01:49,609 --> 00:01:51,430
+del intercambio gaseoso.
+
+50
+00:01:52,530 --> 00:01:54,672
+Pongámoslo a prueba:
+
+51
+00:01:54,672 --> 00:01:57,941
+pH 7.25, PaCO₂ 30 y bicarbonato
+
+52
+00:01:57,941 --> 00:02:01,862
+14. Hay acidemia, y el pH y el
+
+53
+00:02:01,862 --> 00:02:04,368
+bicarbonato bajan juntos:
+
+54
+00:02:04,368 --> 00:02:06,184
+es metabólica.
+
+55
+00:02:06,184 --> 00:02:09,778
+Con Winter, 1.5 × 14 + 8 da 29;
+
+56
+00:02:09,778 --> 00:02:13,010
+la PaCO₂ de 30 está en rango,
+
+57
+00:02:13,010 --> 00:02:15,770
+así que está compensada.
+
+58
+00:02:16,870 --> 00:02:19,040
+Además, con sodio de 140 y cloro
+
+59
+00:02:19,040 --> 00:02:21,370
+de 100, el anión gap es de 26:
+
+60
+00:02:21,370 --> 00:02:23,015
+acidosis metabólica con anión
+
+61
+00:02:23,015 --> 00:02:24,637
+gap elevado, como en la
+
+62
+00:02:24,637 --> 00:02:26,190
+cetoacidosis diabética.
+
+63
+00:02:27,290 --> 00:02:28,989
+Recuerda los cinco pasos:
+
+64
+00:02:28,989 --> 00:02:31,349
+pH, origen, compensación, anión
+
+65
+00:02:31,349 --> 00:02:32,788
+gap y oxigenación.
+
+66
+00:02:32,788 --> 00:02:34,912
+Siempre en ese orden, y ninguna
+
+67
+00:02:34,912 --> 00:02:37,130
+gasometría se te va a escapar.
+
+68
+00:02:38,230 --> 00:02:39,352
+Guarda este video para tu
+
+69
+00:02:39,352 --> 00:02:40,257
+próxima guardia.
+
+70
+00:02:40,257 --> 00:02:41,546
+¿Qué tema quieres que explique
+
+71
+00:02:41,546 --> 00:02:42,752
+después? Déjalo en los
+
+72
+00:02:42,752 --> 00:02:44,310
+comentarios y sígueme para más.

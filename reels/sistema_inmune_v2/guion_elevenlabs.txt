@@ -1,0 +1,56 @@
+GUION PARA ELEVENLABS — BIOLOGÍA EN MINUTOS
+Genera un audio por escena y colócalo en el tiempo indicado,
+o pásame los audios (escena_01.mp3 ... escena_10.mp3) y re-sincronizo el video.
+
+[ESCENA 01 — BIOLOGÍA EN MINUTOS]  empieza en 0:00.25  (duración aprox. de la voz: 5.2s)
+¡Hola! Soy Biología en Minutos, y hoy te voy a hablar sobre las células del sistema inmunológico.
+
+[ESCENA 02 — NEUTRÓFILOS]  empieza en 0:06.46  (duración aprox. de la voz: 8.4s)
+Primero, los neutrófilos. Son los primeros en llegar a una infección: devoran bacterias sin parar y mueren en la batalla. ¡El pus está hecho de ellos!
+
+[ESCENA 03 — MACRÓFAGOS]  empieza en 0:15.85  (duración aprox. de la voz: 8.7s)
+Luego llegan los macrófagos, los grandes comelones. Se tragan bacterias, virus y restos de células muertas, y lanzan alarmas para llamar refuerzos.
+
+[ESCENA 04 — CÉLULAS DENDRÍTICAS]  empieza en 0:25.54  (duración aprox. de la voz: 6.8s)
+Las células dendríticas son las mensajeras: capturan pedacitos del enemigo y se los presentan a los linfocitos T.
+
+[ESCENA 05 — LINFOCITOS T CD4]  empieza en 0:33.34  (duración aprox. de la voz: 7.2s)
+Los linfocitos T colaboradores, o CD4, son los generales: dan las órdenes y activan a las demás células del ejército.
+
+[ESCENA 06 — LINFOCITOS B]  empieza en 0:41.50  (duración aprox. de la voz: 8.8s)
+Los linfocitos B fabrican anticuerpos que se pegan al enemigo y lo marcan. A esto se le llama opsonización, y así los fagocitos se lo comen más fácil.
+
+[ESCENA 07 — LINFOCITOS T CD8]  empieza en 0:51.31  (duración aprox. de la voz: 7.7s)
+Los linfocitos T citotóxicos, o CD8, son asesinos de precisión: detectan células infectadas por virus y las destruyen.
+
+[ESCENA 08 — CÉLULAS NK]  empieza en 1:00.03  (duración aprox. de la voz: 7.6s)
+Las células NK, o asesinas naturales, patrullan tu cuerpo y eliminan células tumorales o sospechosas, sin entrenamiento previo.
+
+[ESCENA 09 — CÉLULAS DE MEMORIA]  empieza en 1:08.65  (duración aprox. de la voz: 7.8s)
+Y finalmente, las células de memoria: recuerdan a cada enemigo para atacarlo más rápido la próxima vez. ¡Por eso funcionan las vacunas!
+
+[ESCENA 10 — ¿Y AHORA QUÉ?]  empieza en 1:17.42  (duración aprox. de la voz: 5.7s)
+¿De qué te gustaría que fuera nuestro siguiente video? Déjalo en la caja de comentarios y regálame un follow.
+
+
+TEXTO COMPLETO (para pegar de una sola vez):
+
+¡Hola! Soy Biología en Minutos, y hoy te voy a hablar sobre las células del sistema inmunológico.
+
+Primero, los neutrófilos. Son los primeros en llegar a una infección: devoran bacterias sin parar y mueren en la batalla. ¡El pus está hecho de ellos!
+
+Luego llegan los macrófagos, los grandes comelones. Se tragan bacterias, virus y restos de células muertas, y lanzan alarmas para llamar refuerzos.
+
+Las células dendríticas son las mensajeras: capturan pedacitos del enemigo y se los presentan a los linfocitos T.
+
+Los linfocitos T colaboradores, o CD4, son los generales: dan las órdenes y activan a las demás células del ejército.
+
+Los linfocitos B fabrican anticuerpos que se pegan al enemigo y lo marcan. A esto se le llama opsonización, y así los fagocitos se lo comen más fácil.
+
+Los linfocitos T citotóxicos, o CD8, son asesinos de precisión: detectan células infectadas por virus y las destruyen.
+
+Las células NK, o asesinas naturales, patrullan tu cuerpo y eliminan células tumorales o sospechosas, sin entrenamiento previo.
+
+Y finalmente, las células de memoria: recuerdan a cada enemigo para atacarlo más rápido la próxima vez. ¡Por eso funcionan las vacunas!
+
+¿De qué te gustaría que fuera nuestro siguiente video? Déjalo en la caja de comentarios y regálame un follow.

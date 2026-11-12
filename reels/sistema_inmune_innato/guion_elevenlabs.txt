@@ -1,0 +1,61 @@
+GUION PARA ELEVENLABS — BIOLOGÍA EN MINUTOS
+Genera un audio por escena y colócalo en el tiempo indicado,
+o pásame los audios (escena_01.mp3 ... escena_11.mp3) y re-sincronizo el video.
+
+[ESCENA 01 — BIOLOGÍA EN MINUTOS]  empieza en 0:00.25  (duración aprox. de la voz: 10.1s)
+¡Hola! Soy Biología en Minutos. Como recordarán, en el video pasado hablamos sobre las células del sistema inmunológico. Pero... ¿sabías que el sistema inmunológico se divide en dos?
+
+[ESCENA 02 — INNATO VS ADAPTATIVO]  empieza en 0:11.72  (duración aprox. de la voz: 7.7s)
+Por un lado está el sistema inmune innato, y por el otro, el sistema inmune adaptativo. ¡Y hoy vamos a hablar del sistema inmune innato!
+
+[ESCENA 03 — EL SISTEMA INNATO]  empieza en 0:20.72  (duración aprox. de la voz: 9.0s)
+El sistema innato es tu primera línea de defensa: naces con él y responde en minutos contra cualquier invasor. Su primera barrera son la piel y las mucosas.
+
+[ESCENA 04 — NEUTRÓFILOS]  empieza en 0:31.05  (duración aprox. de la voz: 7.6s)
+Si un microbio logra pasar, llegan los neutrófilos, los primeros en la escena. Devoran bacterias y hasta lanzan redes para atraparlas.
+
+[ESCENA 05 — MACRÓFAGOS]  empieza en 0:40.04  (duración aprox. de la voz: 8.4s)
+Después, los macrófagos se comen a los microbios y a las células muertas, y liberan citocinas: alarmas que provocan inflamación y llaman refuerzos.
+
+[ESCENA 06 — CÉLULAS DENDRÍTICAS]  empieza en 0:49.82  (duración aprox. de la voz: 7.8s)
+Las células dendríticas capturan pedacitos del enemigo y se los muestran a los linfocitos. ¡Son el puente hacia el sistema adaptativo!
+
+[ESCENA 07 — CÉLULAS NK]  empieza en 0:58.99  (duración aprox. de la voz: 7.3s)
+Las células NK, o asesinas naturales, revisan a las células de tu cuerpo, y si encuentran una infectada o tumoral, ¡la destruyen!
+
+[ESCENA 08 — MASTOCITOS]  empieza en 1:07.60  (duración aprox. de la voz: 7.8s)
+Los mastocitos están llenos de gránulos de histamina. Cuando detectan peligro, los liberan y provocan inflamación... ¡y también las alergias!
+
+[ESCENA 09 — EOSINÓFILOS]  empieza en 1:16.77  (duración aprox. de la voz: 8.4s)
+Los eosinófilos combaten parásitos, como los gusanos, que son demasiado grandes para comérselos. ¡Así que los atacan con sustancias tóxicas!
+
+[ESCENA 10 — EN RESUMEN]  empieza en 1:26.51  (duración aprox. de la voz: 9.0s)
+En resumen: el sistema innato es rápido y siempre actúa igual, pero no tiene memoria. Para eso está el sistema adaptativo, ¡del que hablaremos en el próximo video!
+
+[ESCENA 11 — ¿Y AHORA QUÉ?]  empieza en 1:36.84  (duración aprox. de la voz: 5.3s)
+¿Y de qué otro tema te gustaría que habláramos? Déjalo en la caja de comentarios y regálame un follow.
+
+
+TEXTO COMPLETO (para pegar de una sola vez):
+
+¡Hola! Soy Biología en Minutos. Como recordarán, en el video pasado hablamos sobre las células del sistema inmunológico. Pero... ¿sabías que el sistema inmunológico se divide en dos?
+
+Por un lado está el sistema inmune innato, y por el otro, el sistema inmune adaptativo. ¡Y hoy vamos a hablar del sistema inmune innato!
+
+El sistema innato es tu primera línea de defensa: naces con él y responde en minutos contra cualquier invasor. Su primera barrera son la piel y las mucosas.
+
+Si un microbio logra pasar, llegan los neutrófilos, los primeros en la escena. Devoran bacterias y hasta lanzan redes para atraparlas.
+
+Después, los macrófagos se comen a los microbios y a las células muertas, y liberan citocinas: alarmas que provocan inflamación y llaman refuerzos.
+
+Las células dendríticas capturan pedacitos del enemigo y se los muestran a los linfocitos. ¡Son el puente hacia el sistema adaptativo!
+
+Las células NK, o asesinas naturales, revisan a las células de tu cuerpo, y si encuentran una infectada o tumoral, ¡la destruyen!
+
+Los mastocitos están llenos de gránulos de histamina. Cuando detectan peligro, los liberan y provocan inflamación... ¡y también las alergias!
+
+Los eosinófilos combaten parásitos, como los gusanos, que son demasiado grandes para comérselos. ¡Así que los atacan con sustancias tóxicas!
+
+En resumen: el sistema innato es rápido y siempre actúa igual, pero no tiene memoria. Para eso está el sistema adaptativo, ¡del que hablaremos en el próximo video!
+
+¿Y de qué otro tema te gustaría que habláramos? Déjalo en la caja de comentarios y regálame un follow.
