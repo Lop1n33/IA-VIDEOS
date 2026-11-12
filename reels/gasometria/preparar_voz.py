@@ -58,11 +58,12 @@ def main():
     ap.add_argument("entrada")
     ap.add_argument("salida")
     ap.add_argument("--objetivo", type=float, default=178.0, help="duración máxima del video (s)")
-    ap.add_argument("--max-tempo", type=float, default=1.18)
+    ap.add_argument("--max-tempo", type=float, default=1.18, help="1.0 = nunca acelerar")
+    ap.add_argument("--max-pausa", type=float, default=0.38, help="pausa interna máxima (s)")
     args = ap.parse_args()
     os.makedirs(args.salida, exist_ok=True)
     archivos = sorted(glob.glob(os.path.join(args.entrada, "escena_*")))
-    audios = [compactar(leer(f)) for f in archivos]
+    audios = [compactar(leer(f), max_pausa=args.max_pausa) for f in archivos]
     total = lambda tempo: sum(max(MIN_DUR, LEAD + len(a) / SR / tempo + PAD) for a in audios)
     tempo = 1.0
     while total(tempo) > args.objetivo and tempo < args.max_tempo:
