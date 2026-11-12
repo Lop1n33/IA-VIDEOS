@@ -1,0 +1,69 @@
+GUION PARA ELEVENLABS — CÓMO LEER UN ECG EN MENOS DE 3 MINUTOS
+Las siglas y los números están escritos como se pronuncian en español (cu erre ese, a ve efe,
+de dos, ese te, cero punto doce...) para que ElevenLabs no los lea en inglés.
+Los subtítulos del video los muestran en su forma escrita (QRS, aVF, DII, ST, 0.12).
+Genera un audio por escena y colócalo en el tiempo indicado, o pásame los audios
+(escena_01.mp3 ... escena_12.mp3) y re-sincronizo el video.
+
+[ESCENA 01 — ¿Solo ves números?]  empieza en 0:00.25  (voz aprox. 8.1s)
+Seguramente has visto esto: una gasometría arterial. Y si solo ves números sin sentido, hoy te enseño a interpretarla en menos de tres minutos.
+
+[ESCENA 02 — Valores normales]  empieza en 0:09.45  (voz aprox. 16.5s)
+Primero, los valores normales: pe hache de siete punto treinta y cinco a siete punto cuarenta y cinco; pe ce o dos de treinta y cinco a cuarenta y cinco milímetros de mercurio; bicarbonato de veintidós a veintiséis miliequivalentes por litro; y pe o dos de ochenta a cien milímetros de mercurio.
+
+[ESCENA 03 — Equilibrio ácido-base]  empieza en 0:27.05  (voz aprox. 10.2s)
+Piensa en una balanza: el ce o dos actúa como ácido y lo regula el pulmón; el bicarbonato es una base y lo regula el riñón. El pe hache depende del equilibrio entre ambos.
+
+[ESCENA 04 — El pH]  empieza en 0:38.39  (voz aprox. 8.6s)
+Paso uno: mira el pe hache. Si es menor de siete punto treinta y cinco, hay acidemia; si es mayor de siete punto cuarenta y cinco, hay alcalemia.
+
+[ESCENA 05 — ¿Respiratorio o metabólico?]  empieza en 0:48.05  (voz aprox. 10.4s)
+Paso dos: busca el origen. Si el pe hache y la pe ce o dos van en sentido opuesto, es respiratorio. Si el pe hache y el bicarbonato van en el mismo sentido, es metabólico.
+
+[ESCENA 06 — Compensación]  empieza en 0:59.53  (voz aprox. 18.1s)
+Paso tres: revisa la compensación. En la acidosis metabólica, usa la fórmula de Winter: la pe ce o dos esperada es igual a uno punto cinco por el bicarbonato, más ocho, más o menos dos. Si la pe ce o dos real queda fuera de ese rango, hay un segundo trastorno.
+
+[ESCENA 07 — Anión gap]  empieza en 1:18.75  (voz aprox. 19.6s)
+Paso cuatro: en toda acidosis metabólica, calcula el anión gap: sodio menos la suma de cloro y bicarbonato. Lo normal es de ocho a doce. Si está elevado, piensa en cetoacidosis, acidosis láctica, insuficiencia renal o tóxicos; si es normal, en diarrea o acidosis tubular renal.
+
+[ESCENA 08 — Oxigenación]  empieza en 1:39.43  (voz aprox. 12.0s)
+Paso cinco: la oxigenación. La pe o dos normal es de ochenta a cien milímetros de mercurio. Calcula el índice pe o dos sobre fi o dos: si es menor de trescientos, hay una alteración importante del intercambio gaseoso.
+
+[ESCENA 09 — Pongámoslo a prueba]  empieza en 1:52.53  (voz aprox. 23.2s)
+Pongámoslo a prueba: pe hache siete punto veinticinco, pe ce o dos treinta y bicarbonato catorce. Hay acidemia, y el pe hache y el bicarbonato bajan juntos: es metabólica. Con Winter, uno punto cinco por catorce, más ocho, da veintinueve; la pe ce o dos de treinta está en rango, así que está compensada.
+
+[ESCENA 10 — Diagnóstico final]  empieza en 2:16.87  (voz aprox. 9.3s)
+Además, con sodio de ciento cuarenta y cloro de cien, el anión gap es de veintiséis: acidosis metabólica con anión gap elevado, como en la cetoacidosis diabética.
+
+[ESCENA 11 — Los 5 pasos]  empieza en 2:27.29  (voz aprox. 9.8s)
+Recuerda los cinco pasos: pe hache, origen, compensación, anión gap y oxigenación. Siempre en ese orden, y ninguna gasometría se te va a escapar.
+
+[ESCENA 12 — ¿Te sirvió?]  empieza en 2:38.23  (voz aprox. 6.1s)
+Guarda este video para tu próxima guardia. ¿Qué tema quieres que explique después? Déjalo en los comentarios y sígueme para más.
+
+
+TEXTO COMPLETO (para pegar de una sola vez):
+
+Seguramente has visto esto: una gasometría arterial. Y si solo ves números sin sentido, hoy te enseño a interpretarla en menos de tres minutos.
+
+Primero, los valores normales: pe hache de siete punto treinta y cinco a siete punto cuarenta y cinco; pe ce o dos de treinta y cinco a cuarenta y cinco milímetros de mercurio; bicarbonato de veintidós a veintiséis miliequivalentes por litro; y pe o dos de ochenta a cien milímetros de mercurio.
+
+Piensa en una balanza: el ce o dos actúa como ácido y lo regula el pulmón; el bicarbonato es una base y lo regula el riñón. El pe hache depende del equilibrio entre ambos.
+
+Paso uno: mira el pe hache. Si es menor de siete punto treinta y cinco, hay acidemia; si es mayor de siete punto cuarenta y cinco, hay alcalemia.
+
+Paso dos: busca el origen. Si el pe hache y la pe ce o dos van en sentido opuesto, es respiratorio. Si el pe hache y el bicarbonato van en el mismo sentido, es metabólico.
+
+Paso tres: revisa la compensación. En la acidosis metabólica, usa la fórmula de Winter: la pe ce o dos esperada es igual a uno punto cinco por el bicarbonato, más ocho, más o menos dos. Si la pe ce o dos real queda fuera de ese rango, hay un segundo trastorno.
+
+Paso cuatro: en toda acidosis metabólica, calcula el anión gap: sodio menos la suma de cloro y bicarbonato. Lo normal es de ocho a doce. Si está elevado, piensa en cetoacidosis, acidosis láctica, insuficiencia renal o tóxicos; si es normal, en diarrea o acidosis tubular renal.
+
+Paso cinco: la oxigenación. La pe o dos normal es de ochenta a cien milímetros de mercurio. Calcula el índice pe o dos sobre fi o dos: si es menor de trescientos, hay una alteración importante del intercambio gaseoso.
+
+Pongámoslo a prueba: pe hache siete punto veinticinco, pe ce o dos treinta y bicarbonato catorce. Hay acidemia, y el pe hache y el bicarbonato bajan juntos: es metabólica. Con Winter, uno punto cinco por catorce, más ocho, da veintinueve; la pe ce o dos de treinta está en rango, así que está compensada.
+
+Además, con sodio de ciento cuarenta y cloro de cien, el anión gap es de veintiséis: acidosis metabólica con anión gap elevado, como en la cetoacidosis diabética.
+
+Recuerda los cinco pasos: pe hache, origen, compensación, anión gap y oxigenación. Siempre en ese orden, y ninguna gasometría se te va a escapar.
+
+Guarda este video para tu próxima guardia. ¿Qué tema quieres que explique después? Déjalo en los comentarios y sígueme para más.
